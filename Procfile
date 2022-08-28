@@ -1,0 +1,1 @@
+web: gunicorn CRUD_API.wsgi --log-file -
